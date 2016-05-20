@@ -1,0 +1,918 @@
+[
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_map_baidu_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_map_baidu_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_about.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_about.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_ticket_hui.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_ticket_hui.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_3_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_3_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_ota.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_ota.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_timbre_standard_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_timbre_standard_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_maps_more_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_maps_more_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_ticket_cu.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_ticket_cu.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_setting_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_setting_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_favorite_disable.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_favorite_disable.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_incoming_answer_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\button_incoming_answer_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_more.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_more.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rain_moderate.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rain_moderate.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bk_shadow.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\top_bk_shadow.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_incoming_hangup_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\button_incoming_hangup_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_music.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_music.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_call.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_call.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_timbre_sexy_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_timbre_sexy_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_setting_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_setting_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_input_search.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_input_search.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_favorite_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_favorite_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_traffic.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_traffic.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dianping_logo.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_dianping_logo.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_weather.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_weather.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_status_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_status_bk.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recording_recording.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recording_recording.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_list_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_list_bk.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\session_button_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\session_button_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_map_imap_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_map_imap_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_music.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_music.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_fast_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_fast_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\unfold_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_timbre_sexy_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_timbre_sexy_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_foggy.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_foggy.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_call.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_call.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_y.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\line_y.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_incoming_answer_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\button_incoming_answer_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\back_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_ticket_tuan.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_ticket_tuan.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_favorite_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_add_favorite_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_loadingmore.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_loadingmore.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_connect_mobile_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_connect_mobile_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_net_fm.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_net_fm.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_snow_moderate.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_snow_moderate.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_dianping.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_dianping.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_ok_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_ok_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_map_imap_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_map_imap_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_status_bk_speaking.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_status_bk_speaking.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_limit.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_limit.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\session_view_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\session_view_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_standard_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_standard_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prepare_view_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\prepare_view_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_cloud.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\chat_bg_cloud.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_stock.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_stock.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_n_star_hl.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_n_star_hl.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_hail.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_hail.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_connect_mobile_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_connect_mobile_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_01.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\loading_01.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_chat_02.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_chat_02.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_ticket_wai.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_ticket_wai.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_fm.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_fm.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_chat_05.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_chat_05.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_checkbox_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_checkbox_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_navigation.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_navigation.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\near_butten_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\near_butten_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_chat_04.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_chat_04.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_favorite_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_add_favorite_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_radio.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_radio.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_timbre_standard_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_timbre_standard_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sessioncontainer_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\sessioncontainer_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_1_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_1_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_chat_03.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_chat_03.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\butten_back_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\butten_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recording_voice.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recording_voice.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_dustblow.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_dustblow.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_favorite_disable.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_add_favorite_disable.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_cancel_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recognition_circle.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recognition_circle.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_2_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_2_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_mark_hl.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\page_mark_hl.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_version_mode_status_3.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_version_mode_status_3.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_cancel_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_cancel_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_sunny.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_sunny.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recognition_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recognition_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\back_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_2_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_2_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stock_trend_down.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_stock_trend_down.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_map_tuba.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_map_tuba.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_ticket_ding.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_ticket_ding.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recording_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recording_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_03.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\loading_03.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\view_sms_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\view_sms_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recording_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recording_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_prepare_01.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_prepare_01.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_navigation.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_navigation.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rain_heavy.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rain_heavy.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rainstorm.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rainstorm.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_prepare.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_prepare.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\features_list_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\features_list_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_version_mode_status_2.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_version_mode_status_2.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_mark.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\page_mark.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_02.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\loading_02.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_cancel_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_poi_from.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_poi_from.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_poi_to.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_poi_to.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_contact_avatar.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_avatar.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_mic_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\home_mic_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_wakeup.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_wakeup.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_unablecall.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_unablecall.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\float_mic_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\float_mic_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_ok_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_ok_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\top_bk.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_favorite_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_favorite_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_ok_unable.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_ok_unable.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_limit.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_limit.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_logo.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\welcome_logo.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_location_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_location_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\butten_dialog_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\butten_dialog_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_bluetooth.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_bluetooth.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_map.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_map.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_input_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_input_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_map_gaode.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_map_gaode.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_all_function.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_all_function.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_test_version_mark.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_test_version_mark.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_music.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_music.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_amap_point.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_amap_point.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\butten_dialog_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\butten_dialog_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fold_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\fold_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_n_star_bk.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_n_star_bk.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_map_marker.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_map_marker.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\float_mic_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\float_mic_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_message.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_message.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_3_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_3_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_overcast.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_overcast.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_call.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_call.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_setting.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_setting.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_setting.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_setting.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_haze.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_haze.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_sandstorm.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_sandstorm.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_version_mode_status_1.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_version_mode_status_1.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_x.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\line_x.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_standard_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_standard_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\title_bk.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stock_trend_up.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_stock_trend_up.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_location_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_location_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_setting.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_setting.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\session_button_progress.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\session_button_progress.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_checkbox_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_checkbox_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_snow_shower.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_snow_shower.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unfold_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\unfold_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_incoming_hangup_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\button_incoming_hangup_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line_list_divider.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\line_list_divider.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_fast_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_fast_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_oneshot.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_oneshot.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_near_navigation.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_near_navigation.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_local_search.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_local_search.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_snow_light.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_snow_light.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_cancel_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\butten_mask.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\butten_mask.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_local_search.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_local_search.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scrollbar.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\scrollbar.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_call.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_call.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recognition_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recognition_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_thunder_rain.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_thunder_rain.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_message.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_message.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_aec.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_aec.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_dust.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_dust.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_radio.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_radio.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_traffic.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_traffic.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_poi_keyword_bg.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_poi_keyword_bg.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pressed_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\pressed_bk.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_tts.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_tts.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_map_daodaotong.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_map_daodaotong.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_music.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_music.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_help_weather.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_help_weather.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_mic_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\home_mic_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_sleety.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_sleety.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_blizzard.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_blizzard.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\horizontal_divider.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\horizontal_divider.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_icerain.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_icerain.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_user.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\chat_bg_user.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_version_mode_1_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_version_mode_1_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_navigation.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_navigation.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rainstorm_big.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rainstorm_big.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_edit_cancel_unable.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_edit_cancel_unable.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rain_light.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rain_light.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fold_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\fold_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selected.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\view_sms_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\view_sms_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pickview_item_number_bg.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\pickview_item_number_bg.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_st.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_st.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\session_button_pressed.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\session_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_slowly_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_slowly_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_maps_more_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_maps_more_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_rainstorm_super.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_rainstorm_super.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_exception.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_exception.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_timbre.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_setting_timbre.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recording_bg.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recording_bg.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_map_baidu_on.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_map_baidu_on.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_pressed.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_pressed.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_home_local_search.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_home_local_search.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_shower.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_shower.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recognition_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recognition_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_loading_chat_01.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_loading_chat_01.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_float_mic.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_float_mic.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vertical_divider.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\vertical_divider.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_sandstorm_strong.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_sandstorm_strong.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dot_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_dot_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_cloudy.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_cloudy.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recognition_normal.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recognition_normal.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dot_selected.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_dot_selected.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\butten_back_normal.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\butten_back_normal.9.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_setting_favorite.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_setting_favorite.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_map_selected.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_map_selected.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_en.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_en.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recording_voice.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recording_voice.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_tts_slowly_off.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_tts_slowly_off.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_weather_snow_heavy.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_snow_heavy.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_recording_recording.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_recording_recording.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting_icon_map_baidu.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\setting_icon_map_baidu.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_feature_stock.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\icon_feature_stock.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mic_doreso_recording_bg.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\mic_doreso_recording_bg.png"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\view_tittle_bk.9.png",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable-hdpi\\view_tittle_bk.9.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\function_translate_out.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\function_translate_out.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_loading_chat.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\anim_loading_chat.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\function_translate_in.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\function_translate_in.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_mic_prepare.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\anim_mic_prepare.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\waiting.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\waiting.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    }
+]

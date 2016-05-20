@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_tts_play_fast.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_tts_play_fast.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_edit_favorite.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_edit_favorite.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_multidomain_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_multidomain_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_map_baidu.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_map_baidu.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dialog_datetime_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_dialog_datetime_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_session_local_search.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_session_local_search.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_checkbox_setting.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_checkbox_setting.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_thumb_vertical_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\scrollbar_thumb_vertical_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_setting_timbre_standard.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_setting_timbre_standard.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_add_favorite.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_add_favorite.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_incall_answer.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_incall_answer.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_map_more.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_map_more.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_bar_poi_full_filled.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\rating_bar_poi_full_filled.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_edit_cancel.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_edit_cancel.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\poi_list_extend_item_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\poi_list_extend_item_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_version_mode_high.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_version_mode_high.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mic.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_mic.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_music_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\list_item_music_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_tts_play_slowly.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_tts_play_slowly.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_progerssbar_green.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\style_progerssbar_green.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_btn_mic.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\main_btn_mic.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_version_mode_standard.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_version_mode_standard.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_menu_back.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_menu_back.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fuction_item_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_fuction_item_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_connect_mobile.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_connect_mobile.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mic_cancel.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_mic_cancel.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_track_vertical_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\scrollbar_track_vertical_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_page_location.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_page_location.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mic_recording.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_mic_recording.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_help_unfold.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_help_unfold.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_setting_pop_button.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_setting_pop_button.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_drawable.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\progress_bar_drawable.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_edit_location.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_edit_location.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_no_address.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_no_address.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_press.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\setting_press.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_weather.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\tab_indicator_weather.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_item_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_mic_recognition_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_mic_recognition_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_sms_received_content.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_sms_received_content.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_edit_setting.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_edit_setting.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextbiankuang.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\edittextbiankuang.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voice_volume.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\voice_volume.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_edit_ok.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_edit_ok.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help_menu_press_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\help_menu_press_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webview_progress_bar.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\webview_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\tab_indicator_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_version_mode_exp.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_version_mode_exp.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_setting_timbre_sexy.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_setting_timbre_sexy.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_mic_doreso_recognition_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_mic_doreso_recognition_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_help_fold.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_help_fold.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_tts_play_standard.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_tts_play_standard.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_item_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_session.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_session.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_doreso_mic.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_doreso_mic.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_map_gaode.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_map_gaode.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_incall_hungup.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\selector_btn_incall_hungup.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_mic_doreso_prepare.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\style_mic_doreso_prepare.xml"
+    },
+    {
+        "merged": "E:\\work\\UI11\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_call_cancle_bg.xml",
+        "source": "E:\\work\\UI11\\app\\src\\main\\res\\drawable\\btn_call_cancle_bg.xml"
+    }
+]

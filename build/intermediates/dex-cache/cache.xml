@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\work\UI11\app\libs\XmSpeechControl_guikey_20151117.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a6acae30d1c159b75dc742e2693c37ffe3644ce">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\XmSpeechControl_guikey_20151117_af69c6cde885eb8dddd539ecc4f5caba6955ed15\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\zxing.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_2bd285da97f9ea549e6c0da06ce5abc6010869fe\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\Android_Location_V1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ffeb17da57de5b5e57ec44c6397fb4d682cf0db">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Location_V1.3.0_83ddbc34f181b25bef0b795a337d8c20f2287a0f\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\AMap_Services_V2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3057067b0d15469c99c2e8b1a87d66c94862ac7a">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Services_V2.4.0_293a995ce6d31f6817242f1402746e8a9846def9\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_cc523abf0706bcde60ab8b6bdc847a2e6f11544b\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_c06b3631bed5eb720428a95ba25709198b7deafc\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\pinyin.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec286ee6721de94ff14e44e911352292a0c5c770">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin_53dee224dda536a73d426e50a58eb401b27cf193\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ffbcacd2048e4cb1cf78784ce722f5da20f0b1">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_49337d4bb45e92b2cf012d4f8fb750c2365ba245\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\kwmusic-autosdk-v1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="55c4b627de2653205d128ace933cf149ba6d631c">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\kwmusic-autosdk-v1.3_5a5d71007894299e28e1fbd264a811d7694de17b\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\Android_Navi_V1.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="608ac5c3d9ff1e979301a88f5cb8e66d75333db4">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Navi_V1.1.2_7f256ec38bbfcfea39727a0d66ca346486bcfe92\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\AMap_3DMap_2.5.1.20150827_mod.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f70ccead8739fa6a55ab3044a2c14145a0166f66">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_3DMap_2.5.1.20150827_mod_4b35b52cf996e29b4e7029574273dc2e977df66f\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\okhttp-1.5.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7b7c9e5a6a0d69a1571968805dc1d1f19b57da26">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-1.5.4_2c986384b5226e0b8ebac64e8d4b50191eaac2d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="364f7369343605b1162373c346ac054f52dfc1da">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_917da70f3e755a24aa3fbeee89541bc093aeb4d2\classes.dex" />
+    </item>
+    <item
+        jar="E:\work\UI11\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_e0987ef9c9002c617a335d4a2364561a5d66e690\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gavin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\work\UI11\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_3bbd49c2ee60c73695bbbb1a373f55531ed1e56b\classes.dex" />
+    </item>
+
+</items>
